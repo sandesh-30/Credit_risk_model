@@ -4,7 +4,7 @@ Statistical credit risk modeling, probability of default prediction
 
 ### Collaborators
 * <a href="https://github.com/sandesh-30"> Sandesh Gaikwad </a>
-* <a href="https://github.com/Bhasin-IEOR">Shubham Bhasin</a>.
+* <a href="https://github.com/Bhasin-IEOR">Shubham Bhasin</a>
 
 ## Preliminary Data Exploration & Processing
 Used a dataset that was available on Kaggle that relates to consumer loans issued by the Lending Club, a US P2P lender. The raw data includes information on over 450,000 consumer loans issued between 2007 and 2014 with almost 75 features, including the current loan status and various attributes related to both borrowers and their payment behavior. 18 features with more than 80% of missing values. Given the high proportion of missing values, any technique to impute them will most likely result in inaccurate results
@@ -66,3 +66,4 @@ Finally, we come to the stage where some actual machine learning is involved. We
 It all comes down to this: Applied trained logistic regression model to predict the probability of default on the test set, which has not been used so far (other than for the generic data cleaning and feature selection tasks) 
 
 
+## Main Highlights of this project
