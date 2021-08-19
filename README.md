@@ -73,3 +73,5 @@ It all comes down to this: Applied trained logistic regression model to predict 
 •	Evaluated weight of evidence (WOE) and Information value (IV) for feature engineering and selection
 
 •	Performed feature selection using Chi-squared test for categorical features and ANOVA F-statistic for numerical features
+
+* Reduced total number of features for model training by 45% using WoE ,IV ,F-statistic and P-value analysis
