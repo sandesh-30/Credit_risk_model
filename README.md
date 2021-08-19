@@ -2,7 +2,7 @@
 
 Statistical credit risk modeling, probability of default prediction
 
-### Collaborators
+### Contributors
 * <a href="https://github.com/sandesh-30"> Sandesh Gaikwad </a>
 * <a href="https://github.com/Bhasin-IEOR">Shubham Bhasin</a>
 
