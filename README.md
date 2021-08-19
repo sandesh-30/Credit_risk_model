@@ -10,17 +10,12 @@ Used a dataset that was available on Kaggle that relates to consumer loans issue
  
 ## Identify Target Variable
 
-Based on the data exploration, the target variable appears to be loan_status. Based on domain knowledge, we will classify loans with the following loan_status values as being in default (or 0):
-
-Charged Off
-
-Default
-
-Late (31–120 days)
-
-Does not meet the credit policy. Status:Charged Off
-
-All the other values will be classified as good (or 1)
+Based on the data exploration, the target variable appears to be loan_status. Based on domain knowledge, we will classify loans with the following loan_status values as being in * * default (or 0):
+* Charged Off
+* Default
+* Late (31–120 days)
+* Does not meet the credit policy. Status:Charged Off
+* All the other values will be classified as good (or 1)
  
  
 ## Data Split
