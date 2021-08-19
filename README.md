@@ -74,7 +74,4 @@ It all comes down to this: Applied trained logistic regression model to predict 
 
 *	Performed feature selection using Chi-squared test for categorical features and ANOVA F-statistic for numerical features
 
-*	Reduced the total number of features for model training by 45% using WOE, Information Value (IV) and P-value analysis
-
-* Obtained Area Under the Receiver Operating Characteristic Curve (0.86) and Precision Recall AUC (0.97) on test data
-
+* Reduced total number of features for model training by 45 % (from initial 75 to 36) using WoE , IV , F-statistic and P-value analysis
