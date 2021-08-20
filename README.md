@@ -1,4 +1,4 @@
-# Comprehensive Credit Risk Modelling
+# Comprehensive Credit Risk Model
 
 Statistical credit risk modeling, probability of default prediction
 
@@ -76,5 +76,5 @@ It all comes down to this: Applied trained logistic regression model to predict 
 
 * Reduced the total number of features for model training by 52% using WOE, Information Value (IV) and P-value analysis
 
-* Obtained Area Under the Receiver Operating Characteristic Curve (0.86) and Precision Recall AUC (0.97) on test data
+* Attained AUC of 0.86 and Precision-Recall AUC of 0.97 on test data by using our regression model for binary classification
 
