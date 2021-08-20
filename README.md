@@ -1,4 +1,4 @@
-# Comprehensive Credit Risk Model
+# Credit Risk Model
 
 Statistical credit risk modeling, probability of default prediction
 
