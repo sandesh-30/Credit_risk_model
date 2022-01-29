@@ -7,7 +7,7 @@ Statistical credit risk modeling, probability of default prediction
 * <a href="https://github.com/Bhasin-IEOR">Shubham Bhasin</a>
 
 ## Preliminary Data Exploration & Processing
-Used a dataset that was available on <a href= "https://www.kaggle.com/devanshi23/loan-data-2007-2014"> Kaggle </a> that relates to consumer loan. The raw data includes inormation on over 450,000 consumer loans issued between 2007 and 2014 with almost 75 features, including the current loan status and various attributes related to both borrowers and their payment behavior. 18 features with more than 80% of missing values. Given the high proportion of missing values, any technique to impute them will most likely result in inaccurate results
+Used a dataset that was available on <a href= "https://www.kaggle.com/devanshi23/loan-data-2007-2014"> Kaggle </a> that relates to consumer loan. The raw data includes information on over 450,000 consumer loans issued between 2007 and 2014 with almost 75 features, including the current loan status and various attributes related to both borrowers and their payment behavior. 18 features with more than 80% of missing values. Given the high proportion of missing values, any technique to impute them will most likely result in inaccurate results
  
 ## Identify Target Variable
 Based on the data exploration, the target variable appears to be loan_status. Based on domain knowledge, we will classify loans with the following loan_status values as being in default (or 0):
